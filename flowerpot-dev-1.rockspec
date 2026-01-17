@@ -5,7 +5,7 @@ version = "dev-1"
 
 source = {
   url = "git://github.com/the-man-with-a-golden-mind/flowerpot.git",
-  branch = "main"
+  branch = "master"
 }
 
 description = {
