@@ -1,18 +1,10 @@
 <p align="center">
-  <svg width="220" height="220" viewBox="0 0 220 220">
-    <defs>
-      <clipPath id="circle">
-        <circle cx="110" cy="110" r="110"/>
-      </clipPath>
-    </defs>
-    <image
-      href="assets/flowerpot.png"
-      width="220"
-      height="220"
-      clip-path="url(#circle)"
-      style="image-rendering: pixelated;"
-    />
-  </svg>
+  <img
+    src="assets/flowerpot.png"
+    width="220"
+    alt="Flowerpot mascot"
+    style="image-rendering: pixelated;"
+  >
 </p>
 
 # 🌺 FlowerPot
