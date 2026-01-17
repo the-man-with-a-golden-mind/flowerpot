@@ -25,7 +25,6 @@ No hidden schedulers.
 No background threads.
 No surprises.
 
----
 
 ## Installation
 
@@ -106,8 +105,6 @@ This means:
 No threads.
 No locks.
 No race conditions.
-
----
 
 ## Router
 
