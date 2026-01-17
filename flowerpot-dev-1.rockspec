@@ -4,7 +4,7 @@ package = "flowerpot"
 version = "dev-1"
 
 source = {
-  url = "https://github.com:the-man-with-a-golden-mind/flowerpot.git",
+  url = "git://github.com/the-man-with-a-golden-mind/flowerpot.git",
   branch = "main"
 }
 
